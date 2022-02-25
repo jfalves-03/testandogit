@@ -1,8 +1,5 @@
 Nome: José Augusto Fernandes Alves 
-Idade: 18 anos 
+Idade: 18 anos
 Sexo: Masculino 
 Cursando: Análise e Desenvolvimento de Sistemas 
-Dia da Semana: Sexta-Feira (25/02/2022) 
-Novo dado 1: Dado1 
-Novo dado 2: Dado2
-Novo dado 3: Dado3
+Estudo: GIT
